@@ -1,0 +1,2 @@
+composer require security annotations
+composer require --dev web-profiler
